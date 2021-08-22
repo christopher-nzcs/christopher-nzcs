@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xd_Golden_Tiger
+- 👋 Hi, I’m Xd_Golden_Tiger
 - 👀 I’m interested in coding, gaming, and making friends
 - 🌱 I’m currently learning coding languages I have never used before (C++ and Java)
 - 💞️ I’m looking to collaborate on Discord Bots (JS), Websites (PHP) and FiveM Scripts (LUA/C#)
