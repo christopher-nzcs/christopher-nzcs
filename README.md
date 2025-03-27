@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Xd_Golden_Tiger
-- 👀 I’m interested in coding, gaming, and making friends
-- 🌱 I’m currently learning new coding languages I have never used before (C++ and Java)
-- 💞️ I’m looking to collaborate on Discord Bots (JS/C#), Websites (PHP, HTML, Angular) and FiveM Scripts (LUA/C#)
-- 📫 How to reach me Discord: Xd_Golden_Tiger#0001
+👋 Hi, I am Chris D, or known online as XdGoldenTiger.
+I am a full-stack developer, and I love working on different projects and gaining more expereince in the software development environment.
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/chrisnzcs.png" alt="Your Image Badge" />
